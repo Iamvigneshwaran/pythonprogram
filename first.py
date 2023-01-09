@@ -1,6 +1,9 @@
 print("hello vicky")
 
+name ="vicky"
+last_name= "waran"
 
-a=1
-b=2
-print(a+b) #a+b
+age=18
+
+print("hi"+name)
+
