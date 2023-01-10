@@ -38,4 +38,4 @@ initial = 'A'
 print(initial)
 
 
-print(name+"hi "+salary+" "+name)
+print(name+"hi ")
